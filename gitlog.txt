@@ -2,7 +2,7 @@ git log is used to see the logs and the commit details which was done on that re
 
 40 chars long git id unique commit id is generated
 
-it shows all the commit done and the details changed in the current branhc,
+it shows all the commit done and the details changed in the current branch,
 date time etc etc 
 
 there are many variations of these commands 
