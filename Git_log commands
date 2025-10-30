@@ -2,3 +2,9 @@ Git log statements --
 
 git log --oneline
 git log --stat
+git log --patch/--p = shows file locations
+git log --graph = shows graphical changes does to the repo
+git log --graph --oneline = shrter graph 
+git log -2 = shows top 2 commits 
+git log --after="date" = used for filteration 
+git log --author="author name" = used for filteration
