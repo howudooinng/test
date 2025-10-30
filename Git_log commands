@@ -1,0 +1,4 @@
+Git log statements -- 
+
+git log --oneline
+git log --stat
